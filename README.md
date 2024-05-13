@@ -6,13 +6,15 @@ Vanessa has been recognized by Ford Motor Company, HerImpact, 1863 Ventures, Com
 
 Vanessa's personal philosophy is guided by the words written in Dr. Mary McLeod Bethune’s Last Will and Testament, allow these words to evoke the spirit of elevation within you :
 “I LEAVE YOU A THIRST FOR EDUCATION. Knowledge is the prime need of the hour.”
-“I LEAVE YOU RESPECT FOR THE USES OF POWER. We live in a world which respects power above all things. Power, intelligently directed, can lead to more freedom. Unwisely directed, it can be a dreadful, destructive force."- 👋 Hi, I’m @vanessapierre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+“I LEAVE YOU RESPECT FOR THE USES OF POWER. We live in a world which respects power above all things. Power, intelligently directed, can lead to more freedom. Unwisely directed, it can be a dreadful, destructive force."-
+
+
+👋 Hi, I’m @vanessapierre
+- 👀 I’m interested in ... personal growth and making new connections :)
+- 🌱 I’m currently learning ... all things software engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ... email :) 
+- ⚡ Fun fact: ... too many to list. just ask me directly ;)
 
 <!---
 vanessapierre/vanessapierre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
