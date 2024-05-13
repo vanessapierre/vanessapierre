@@ -1,0 +1,23 @@
+.about-the-musicians {
+  padding: 40px;
+}
+
+.band-photo {
+  padding: 40px;
+}
+
+.bandsite-logo {
+  justify-content: center;
+}
+
+.navbar {
+  justify-content: center;
+}
+
+.bio-blurb {
+  text-wrap: wrap;
+}
+
+.photo-gallery {
+  padding-inline: 100px;
+}/*# sourceMappingURL=bio.css.map */
